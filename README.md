@@ -1,6 +1,10 @@
 # Apie projektą
 
+Paprastas paragrafas.
+
 ## Antro lygio antraštė
+
+Kažkoks tekstas **apie projektą**.
 
 ## Trečio lygio antraštė
 
