@@ -38,10 +38,9 @@ Kažkoks tekstas _apie projektą_.
 
 #### Ketvirto lygio antraštė
 
->> Kažkoks tekstas apie projektą. 
+>> Kažkoks tekstas apie projektą arba tekstas yra citata.
 
 ##### Penkto lygio antraštė
 
-> Tekstas yra citata
 
 ###### Šešto lygio antraštė
