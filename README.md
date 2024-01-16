@@ -2,6 +2,8 @@
 
 Paprastas paragrafas su [nuoroda](https://example.com).
 
+![Ufo nuotrauka](404_koreguotas.jpg)
+
 ## Antro lygio antraštė
 
 Kažkoks tekstas **apie projektą**.
