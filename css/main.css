@@ -17,9 +17,16 @@ div {
 }
 
 h1 {
+    font-size: 100px;
+    margin: 0;
+    font-family: Arial;
+    color:blue;
 }
 
-p {
+p { font-size: 25px;
+    margin: 0;
+    font-family: tahoma;
+    text-transform: uppercase;
 }
 
 a {
