@@ -2,7 +2,7 @@
 
 Paprastas paragrafas su [nuoroda](https://example.com).
 
-![Ufo nuotrauka](404_koreguotas.jpg)
+![Ufo nuotrauka](img/ufo.jpg)
 
 ## Antro lygio antraštė
 
